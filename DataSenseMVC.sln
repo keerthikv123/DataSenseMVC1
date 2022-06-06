@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSenseMVC", "DataSenseMVC.csproj", "{5FA8F9E9-95E1-4F3B-BC42-1157B25388EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA8F9E9-95E1-4F3B-BC42-1157B25388EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA8F9E9-95E1-4F3B-BC42-1157B25388EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA8F9E9-95E1-4F3B-BC42-1157B25388EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA8F9E9-95E1-4F3B-BC42-1157B25388EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DA89927-5BBF-4698-854F-A134D8B3C907}
+	EndGlobalSection
+EndGlobal
